@@ -1,0 +1,23 @@
+World Scene Interaction Application has these functionalities:
+
+1) Clicking and dragging the mouse adds stars to the scene sky.
+	- Key Q: Removes the oldest star added by user
+	- Key W: Removes the newest star added by user
+2) 5 Pre-Selected colors to paint the sky with.
+3) Using arrow keys moves the moon around the scene.
+	- Left Arrow Key: Moves the moon left affecting X-coordinates
+	- Right Arrow Key: Moves the moon right affecting X-coordinates
+	- Down Arrow Key: Moves the moon down affecting Y-coordinates
+	- Up Arrow Key: Moves the moon up affecting Y-coordinates
+4) Using number keys changes the number of sides on all stars in the scene.
+	- Number Key 3: Three-sided star
+	- Number Key 4: Four-sided star
+	- Number Key 5: Five-sided star
+	- Number Key 6: Six-sided star
+	- Number Key 7: Seven-sided star
+	- Number Key 8: Eight-sided star
+	- Number Key 9: Nine-sided star
+5) Clicking the star adds a star. Shift clicking a star removes it.
+	- Click anywhere in the sky to add a star.
+	- Shift click on any star to remove it.
+	- Delete key: To remove all user sketches.
